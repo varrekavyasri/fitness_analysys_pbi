@@ -1,0 +1,132 @@
+id,gender,birthday,Age,abonoment_type,visit_per_week,days_per_week,attend_group_lesson,fav_group_lesson,avg_time_check_in,avg_time_check_out,avg_time_in_gym,fav_drink,name_personal_trainer,steps,distance_km,calories_burned,active_minutes,sleep_hours,water_intake_liters,mood
+1,Male,30-03-1983,41,Premium,1,Sat,TRUE,XCore,08:29:00,10:32:00,123,"berry_boost, lemon",Mike,4147,3.11,124.41,41,10.5,3.77,stressed
+2,Male,28-07-1978,46,Premium,3,"Sat, Sun, Thu",TRUE,BodyPump,09:45:00,11:17:00,92,"orange, lemon",Mike,323,0.24,9.69,3,6,1.9,sad
+3,Male,19-09-1997,27,Premium,3,"Fri, Thu, Wed",TRUE,"Pilates, Zumba, XCore",10:12:00,10:45:00,33,passion_fruit,Mike,6622,4.97,198.66,66,6,4.48,sad
+4,Female,29-05-1986,38,Standard,1,Tue,TRUE,Pilates,10:01:00,12:48:00,167,orange,Hanna,11136,8.35,334.08,111,8,1.08,tired
+5,Female,22-10-2010,13,Standard,2,"Mon, Tue",TRUE,HIT,20:56:00,23:36:00,160,"passion_fruit, orange",Mike,2718,2.04,81.54,27,4.9,1,tired
+6,Male,17-06-1989,35,Standard,1,Fri,TRUE,"BodyBalance, Zumba, Yoga",13:12:00,14:54:00,102,coconut_pineapple,Chantal,4972,3.73,149.16,50,6,3.33,happy
+7,Male,10-04-1992,32,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,"BodyBalance, Pilates, Running",19:41:00,21:35:00,114,berry_boost,Chantal,15271,11.45,458.13,153,3.4,0.88,happy
+8,Female,26-06-1995,29,Premium,1,Thu,TRUE,BodyBalance,10:25:00,12:04:00,99,"black_currant, lemon",Chantal,17290,12.97,518.7,173,11.6,4.08,energetic
+9,Female,27-11-1980,43,Standard,4,"Fri, Mon, Sat, Thu",TRUE,Pilates,20:36:00,23:17:00,161,"orange, berry_boost",Mike,1042,0.78,31.26,10,6.5,2.49,happy
+10,Male,04-01-2000,24,Standard,2,"Sun, Thu",TRUE,"Spinning, Kickboxen, LesMiles",15:49:00,18:31:00,162,black_currant,Chantal,6818,5.11,204.54,68,6.5,3.61,stressed
+11,Female,20-08-1988,36,Standard,2,"Sat, Thu",TRUE,"XCore, Zumba",19:38:00,21:40:00,122,orange,Chantal,13141,9.86,394.23,131,6.5,2.35,tired
+12,Male,16-07-2004,20,Standard,5,"Mon, Sat, Sun, Thu, Wed",TRUE,Spinning,13:04:00,13:37:00,33,"berry_boost, coconut_pineapple",Mike,5046,3.78,151.38,50,6,4.03,happy
+13,Male,24-10-1990,33,Premium,2,"Mon, Sun",TRUE,"Zumba, Spinning, BodyBalance",16:16:00,18:03:00,107,berry_boost,Mike,11615,8.71,348.45,116,7.8,0.43,stressed
+14,Female,03-06-1983,41,Standard,2,"Tue, Wed",TRUE,"BodyPump, Spinning, HIT",16:43:00,18:46:00,123,coconut_pineapple,Chantal,4301,3.23,129.03,43,9,2.87,happy
+15,Male,18-05-1980,44,Standard,3,"Sat, Sun, Wed",TRUE,HIT,10:11:00,11:30:00,79,black_currant,Jeffrey,8655,6.49,259.65,87,9,0.94,happy
+16,Male,06-11-1990,33,Standard,5,"Fri, Sat, Sun, Thu, Wed",TRUE,"Pilates, BodyBalance",10:29:00,11:18:00,49,lemon,Chantal,14113,10.58,423.39,141,7,1.17,stressed
+17,Female,15-03-1986,38,Premium,1,Mon,TRUE,"BodyPump, Zumba",09:51:00,10:33:00,42,"passion_fruit, berry_boost",Mike,15435,11.58,463.05,154,6.5,4.83,energetic
+18,Male,11-03-1975,49,Premium,3,"Fri, Thu, Wed",TRUE,"XCore, Zumba, LesMiles",20:30:00,21:24:00,54,passion_fruit,Jeffrey,18451,13.84,553.53,185,8,1.35,sad
+19,Female,20-08-2010,14,Standard,5,"Fri, Sat, Sun, Thu, Tue",TRUE,"XCore, Yoga, LesMiles",20:23:00,21:30:00,67,"black_currant, passion_fruit",Mike,11850,8.89,355.5,119,6.5,2.79,stressed
+20,Male,22-03-1988,36,Premium,2,"Mon, Sat",TRUE,"BodyPump, Kickboxen, Zumba",09:08:00,11:19:00,131,"orange, berry_boost",Mike,1075,0.81,32.25,11,7,2.09,sad
+21,Male,22-07-1977,47,Premium,2,"Fri, Tue",TRUE,"Running, BodyPump",16:41:00,18:02:00,81,"passion_fruit, orange",Chantal,5340,4.01,160.2,53,4.8,2.53,happy
+22,Male,16-03-1985,39,Standard,2,"Tue, Wed",TRUE,"Kickboxen, BodyPump",11:18:00,13:28:00,130,"lemon, black_currant",Mike,13972,10.48,419.16,140,6,1.18,energetic
+23,Female,22-12-2006,17,Standard,3,"Sat, Thu, Tue",TRUE,XCore,15:41:00,16:58:00,77,"berry_boost, lemon",Chantal,17002,12.75,510.06,170,9,2.92,tired
+24,Male,20-06-1976,48,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, Running, LesMiles",08:33:00,10:13:00,100,passion_fruit,Jeffrey,7786,5.84,233.58,78,6,0.74,stressed
+25,Male,17-04-2012,12,Standard,5,"Fri, Sat, Sun, Thu, Wed",TRUE,"Pilates, Kickboxen, BodyPump",19:49:00,22:15:00,146,"lemon, orange",Mike,10776,8.08,323.28,108,6,4.65,sad
+26,Male,05-08-1994,30,Premium,3,"Fri, Sun, Wed",TRUE,"BodyPump, Yoga",13:00:00,15:43:00,163,coconut_pineapple,Jeffrey,15203,11.4,456.09,152,6.5,1.02,energetic
+27,Male,29-09-1978,46,Standard,4,"Fri, Mon, Sat, Wed",TRUE,"HIT, XCore, Kickboxen",13:31:00,15:47:00,136,"black_currant, coconut_pineapple",Mike,2644,1.98,79.32,26,10.6,0.84,sad
+28,Male,18-02-2005,19,Premium,2,"Thu, Wed",TRUE,LesMiles,17:13:00,19:26:00,133,orange,Jeffrey,1905,1.43,57.15,19,3.3,3.44,stressed
+29,Male,02-01-1983,41,Premium,1,Thu,TRUE,"Running, HIT",11:28:00,13:10:00,102,"lemon, coconut_pineapple",Jeffrey,7467,5.6,224.01,75,6.5,2.47,sad
+30,Male,05-03-2007,17,Premium,1,Mon,TRUE,"Spinning, HIT",19:05:00,21:55:00,170,"berry_boost, orange",Chantal,15005,11.25,450.15,150,8.2,2.06,happy
+31,Male,24-08-1985,39,Standard,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"XCore, Pilates",15:16:00,17:15:00,119,lemon,Mike,1811,1.36,54.33,18,4.6,3.45,stressed
+32,Female,09-01-2005,19,Premium,2,"Tue, Wed",TRUE,Spinning,10:32:00,12:03:00,91,coconut_pineapple,Jeffrey,17812,13.36,534.36,178,8,1.08,stressed
+33,Female,11-10-2007,17,Premium,5,"Fri, Mon, Sat, Sun, Wed",TRUE,Yoga,13:50:00,14:29:00,39,lemon,Hanna,1193,0.89,35.79,12,3.1,4.12,energetic
+34,Male,27-10-1983,40,Premium,2,"Fri, Tue",TRUE,"Yoga, HIT",14:33:00,15:40:00,67,lemon,Jeffrey,14118,10.59,423.54,141,6,3.77,stressed
+35,Male,14-04-2003,21,Premium,1,Sun,TRUE,"Kickboxen, BodyBalance, LesMiles",14:34:00,15:04:00,30,coconut_pineapple,Mike,17536,13.15,526.08,175,8.3,0.39,tired
+36,Female,27-05-1977,47,Premium,2,"Mon, Sat",TRUE,"Yoga, Pilates",08:39:00,09:38:00,59,black_currant,Chantal,8159,6.12,244.77,82,4.8,2.83,tired
+37,Male,03-02-1992,32,Premium,2,"Fri, Sun",TRUE,Yoga,13:19:00,14:52:00,93,"lemon, black_currant",Mike,16123,12.09,483.69,161,8,4.35,sad
+38,Male,24-01-1983,41,Standard,2,"Fri, Thu",TRUE,"Pilates, Yoga",10:29:00,12:37:00,128,"coconut_pineapple, orange",Chantal,5606,4.2,168.18,56,8,1.46,tired
+39,Female,16-12-2002,21,Premium,2,"Fri, Sat",TRUE,LesMiles,14:55:00,15:28:00,33,berry_boost,Mike,6292,4.72,188.76,63,9,0.8,tired
+40,Female,04-05-1998,26,Premium,1,Thu,TRUE,"Yoga, Kickboxen",16:31:00,17:47:00,76,"lemon, passion_fruit",Hanna,7740,5.81,232.2,77,6.5,3.32,stressed
+41,Female,14-04-2001,23,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, LesMiles, Yoga",13:06:00,14:35:00,89,"coconut_pineapple, orange",Chantal,8678,6.51,260.34,87,6.5,2.7,stressed
+42,Male,28-10-2003,20,Standard,2,"Fri, Sun",TRUE,"Running, LesMiles, Yoga",11:47:00,14:10:00,143,lemon,Chantal,5861,4.4,175.83,59,5.7,2.78,energetic
+43,Female,23-01-2012,12,Standard,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"HIT, Zumba",09:36:00,12:09:00,153,"lemon, berry_boost",Chantal,10948,8.21,328.44,109,6,0.84,energetic
+44,Female,04-09-1983,41,Standard,3,"Sun, Thu, Wed",TRUE,"XCore, Pilates, HIT",15:40:00,17:21:00,101,"passion_fruit, orange",Chantal,11079,8.31,332.37,111,6.5,0.99,tired
+45,Male,11-08-1998,26,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,HIT,17:57:00,19:05:00,68,coconut_pineapple,Jeffrey,14928,11.2,447.84,149,8.7,2.01,happy
+46,Female,21-11-1988,35,Standard,2,"Fri, Mon",TRUE,"Pilates, XCore",16:20:00,17:21:00,61,passion_fruit,Jeffrey,19940,14.96,598.2,199,6,0.24,tired
+47,Male,25-02-2007,17,Standard,1,Tue,TRUE,"Running, Zumba",12:17:00,15:14:00,177,"lemon, berry_boost",Chantal,10598,7.95,317.94,106,7,1.45,energetic
+48,Female,24-09-2003,21,Premium,2,"Mon, Wed",TRUE,"Kickboxen, HIT, Spinning",18:40:00,21:21:00,161,passion_fruit,Hanna,17134,12.85,514.02,171,4.8,0.47,stressed
+49,Male,09-05-1995,29,Premium,1,Mon,TRUE,HIT,17:22:00,18:42:00,80,black_currant,Jeffrey,3276,2.46,98.28,33,6,3.36,stressed
+50,Female,05-01-1996,28,Premium,1,Tue,TRUE,"Spinning, LesMiles, Yoga",13:08:00,14:35:00,87,black_currant,Hanna,17751,13.31,532.53,178,7,0.3,happy
+51,Female,10-10-1978,46,Premium,5,"Fri, Sun, Thu, Tue, Wed",TRUE,"Running, BodyPump",11:18:00,14:06:00,168,"coconut_pineapple, black_currant",Jeffrey,6679,5.01,200.37,67,5.6,2.41,stressed
+52,Male,06-12-1978,45,Premium,2,"Mon, Wed",TRUE,"HIT, Spinning",14:20:00,17:20:00,180,black_currant,Hanna,8929,6.7,267.87,89,8,2.04,tired
+53,Female,12-01-2008,16,Premium,3,"Sun, Thu, Wed",TRUE,"LesMiles, HIT, Pilates",12:45:00,14:42:00,117,"orange, lemon",Hanna,329,0.25,9.87,3,8,1.96,happy
+54,Male,03-09-1998,26,Premium,2,"Tue, Wed",TRUE,XCore,19:08:00,21:19:00,131,black_currant,Jeffrey,17094,12.82,512.82,171,6.5,4.43,sad
+55,Female,28-06-1979,45,Premium,2,"Mon, Thu",TRUE,"LesMiles, Yoga, Zumba",10:37:00,13:10:00,153,"coconut_pineapple, lemon",Hanna,1964,1.47,58.92,20,5.2,2.19,happy
+56,Female,09-08-2009,15,Premium,3,"Fri, Sat, Wed",TRUE,"Kickboxen, Zumba",11:02:00,11:38:00,36,"berry_boost, black_currant",Chantal,19702,14.78,591.06,197,6,0.68,happy
+57,Male,05-04-1997,27,Premium,2,"Mon, Sun",TRUE,"LesMiles, Yoga, Spinning",16:35:00,18:56:00,141,lemon,Jeffrey,13813,10.36,414.39,138,6.5,1.83,tired
+58,Male,09-12-1984,39,Standard,2,"Sun, Tue",TRUE,"LesMiles, BodyPump",19:02:00,19:47:00,45,berry_boost,Chantal,6169,4.63,185.07,62,8,4.42,energetic
+59,Male,19-04-1993,31,Standard,2,"Sun, Thu",TRUE,"Yoga, Pilates, BodyPump",17:57:00,19:22:00,85,"lemon, passion_fruit",Jeffrey,11000,8.25,330,110,8,1.15,energetic
+60,Female,20-04-1981,43,Standard,1,Sat,TRUE,Yoga,14:44:00,16:44:00,120,"passion_fruit, berry_boost",Chantal,6683,5.01,200.49,67,6,2.44,tired
+61,Male,20-12-2011,12,Standard,2,"Sat, Wed",TRUE,"Kickboxen, BodyBalance",13:58:00,15:56:00,118,"orange, lemon",Chantal,843,0.63,25.29,8,8,2.18,tired
+62,Female,05-12-1982,41,Standard,2,"Sun, Tue",TRUE,"HIT, BodyBalance",14:06:00,16:06:00,120,"orange, berry_boost",Jeffrey,5397,4.05,161.91,54,6.5,1.68,sad
+63,Female,16-06-1985,39,Standard,4,"Sat, Sun, Thu, Tue",TRUE,"Spinning, HIT",16:21:00,17:34:00,73,"lemon, black_currant",Jeffrey,12976,9.73,389.28,130,8,2.59,sad
+64,Female,25-03-1994,30,Standard,3,"Sat, Sun, Wed",TRUE,"Yoga, Spinning",18:36:00,20:33:00,117,orange,Jeffrey,2169,1.63,65.07,22,8,2.19,tired
+65,Female,14-02-1986,38,Standard,3,"Mon, Sun, Tue",TRUE,Pilates,11:37:00,12:57:00,80,"orange, black_currant",Jeffrey,7287,5.47,218.61,73,9.1,4.3,happy
+66,Male,07-10-1998,26,Premium,1,Fri,TRUE,Pilates,12:45:00,14:09:00,84,"black_currant, orange",Chantal,10720,8.04,321.6,107,6,4.88,tired
+67,Male,03-08-1991,33,Standard,3,"Sat, Sun, Wed",TRUE,"BodyBalance, Kickboxen, HIT",16:59:00,18:31:00,92,orange,Jeffrey,765,0.57,22.95,8,7,3.33,sad
+68,Male,09-07-2001,23,Standard,2,"Tue, Wed",TRUE,"XCore, Kickboxen",17:37:00,19:57:00,140,orange,Mike,18989,14.24,569.67,190,8,3.95,stressed
+69,Female,17-03-1998,26,Premium,3,"Fri, Thu, Wed",TRUE,"BodyBalance, XCore",18:41:00,21:00:00,139,"black_currant, coconut_pineapple",Mike,3105,2.33,93.15,31,6.8,4.9,happy
+70,Male,16-09-1975,49,Standard,3,"Sun, Tue, Wed",TRUE,Pilates,17:10:00,18:03:00,53,"orange, coconut_pineapple",Mike,7445,5.58,223.35,74,4.8,4.58,tired
+71,Male,07-08-1981,43,Premium,4,"Mon, Sat, Tue, Wed",TRUE,"BodyBalance, Spinning, XCore",10:38:00,11:41:00,63,orange,Jeffrey,15063,11.3,451.89,151,6,2.09,energetic
+72,Female,24-05-1977,47,Premium,2,"Sun, Tue",TRUE,"LesMiles, BodyBalance",15:09:00,16:18:00,69,"berry_boost, black_currant",Chantal,1505,1.13,45.15,15,8.4,4.38,happy
+73,Male,16-01-1988,36,Standard,1,Sat,TRUE,XCore,11:56:00,12:58:00,62,"lemon, passion_fruit",Mike,18313,13.73,549.39,183,6.5,4.42,stressed
+74,Male,03-05-1999,25,Premium,1,Sat,TRUE,"Kickboxen, Running",14:30:00,15:03:00,33,orange,Hanna,13681,10.26,410.43,137,10.9,4.31,tired
+75,Male,07-01-2008,16,Standard,4,"Mon, Sat, Sun, Thu",TRUE,"Zumba, Running, Spinning",13:43:00,14:14:00,31,passion_fruit,Mike,17964,13.47,538.92,180,4.4,2.44,sad
+76,Male,21-07-1993,31,Premium,2,"Mon, Wed",TRUE,"Yoga, Zumba",20:28:00,21:52:00,84,black_currant,Hanna,8497,6.37,254.91,85,9,1.44,happy
+77,Male,10-06-2008,16,Premium,2,"Fri, Wed",TRUE,"Running, Zumba, HIT",12:40:00,13:52:00,72,"lemon, orange",Chantal,17993,13.49,539.79,180,7,1.3,stressed
+78,Male,04-05-2009,15,Standard,1,Thu,TRUE,BodyPump,08:01:00,10:30:00,149,lemon,Hanna,19143,14.36,574.29,191,6,3.63,happy
+79,Male,13-05-1991,33,Standard,2,"Sat, Wed",TRUE,"BodyPump, Running",17:06:00,19:09:00,123,"orange, berry_boost",Hanna,19529,14.65,585.87,195,10.7,4.44,stressed
+80,Female,04-12-1987,36,Premium,1,Fri,TRUE,"Yoga, Pilates",14:49:00,16:32:00,103,"passion_fruit, berry_boost",Chantal,1683,1.26,50.49,17,9,2.84,stressed
+81,Female,24-04-1976,48,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, BodyBalance",15:30:00,16:26:00,56,"coconut_pineapple, black_currant",Hanna,14008,10.51,420.24,140,12,4.71,energetic
+82,Female,26-03-2011,13,Premium,2,"Sat, Sun",TRUE,"Yoga, HIT",08:25:00,09:16:00,51,"passion_fruit, lemon",Jeffrey,10941,8.21,328.23,109,8.5,4.54,happy
+83,Female,19-06-1995,29,Premium,2,"Sat, Tue",TRUE,"Spinning, LesMiles",20:00:00,21:50:00,110,black_currant,Chantal,6220,4.67,186.6,62,9,0.65,tired
+84,Female,07-01-1998,26,Standard,3,"Sun, Tue, Wed",TRUE,"XCore, BodyPump",13:24:00,15:53:00,149,"passion_fruit, berry_boost",Mike,19260,14.45,577.8,193,6.5,4.03,stressed
+85,Female,06-11-1976,47,Standard,2,"Fri, Mon",TRUE,"Yoga, Spinning, XCore",12:42:00,13:37:00,55,"berry_boost, orange",Mike,4237,3.18,127.11,42,6,1.77,tired
+86,Female,16-07-2010,14,Premium,5,"Fri, Mon, Sat, Sun, Wed",TRUE,"Running, LesMiles",12:54:00,15:10:00,136,coconut_pineapple,Chantal,16177,12.13,485.31,162,7,3.22,tired
+87,Male,07-12-1985,38,Premium,2,"Mon, Wed",TRUE,"Kickboxen, XCore",11:41:00,12:14:00,33,"lemon, coconut_pineapple",Hanna,5179,3.88,155.37,52,8,1.92,tired
+88,Female,23-11-1982,41,Standard,1,Fri,TRUE,BodyPump,11:45:00,12:38:00,53,"coconut_pineapple, black_currant",Chantal,17215,12.91,516.45,172,6.5,2.89,stressed
+89,Female,13-06-1980,44,Standard,1,Wed,TRUE,"Yoga, BodyPump, BodyBalance",08:17:00,09:23:00,66,"berry_boost, orange",Jeffrey,15893,11.92,476.79,159,8,2.45,tired
+90,Male,11-03-2002,22,Standard,5,"Fri, Sat, Sun, Tue, Wed",TRUE,BodyBalance,10:31:00,11:48:00,77,black_currant,Mike,8761,6.57,262.83,88,4.1,1.82,sad
+91,Male,18-06-1988,36,Premium,3,"Sat, Sun, Tue",TRUE,"Pilates, BodyPump, Yoga",16:01:00,17:40:00,99,black_currant,Mike,14137,10.6,424.11,141,5.5,2.73,sad
+92,Male,16-02-1989,35,Premium,2,"Sat, Wed",TRUE,"XCore, Yoga, Pilates",20:14:00,22:30:00,136,passion_fruit,Jeffrey,19389,14.54,581.67,194,8,3.44,sad
+93,Female,19-08-2005,19,Premium,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"BodyBalance, XCore",10:54:00,13:17:00,143,"orange, berry_boost",Mike,12523,9.39,375.69,125,4,4.66,energetic
+94,Female,24-05-2008,16,Premium,2,"Fri, Wed",TRUE,"XCore, LesMiles",09:10:00,11:59:00,169,passion_fruit,Hanna,2005,1.5,60.15,20,4.6,3.13,stressed
+95,Female,28-09-1976,48,Standard,5,"Mon, Sat, Thu, Tue, Wed",TRUE,Yoga,11:21:00,13:42:00,141,coconut_pineapple,Jeffrey,18641,13.98,559.23,186,8,1.58,tired
+96,Male,02-10-2004,20,Premium,3,"Mon, Thu, Wed",TRUE,"Yoga, Pilates",10:42:00,13:13:00,151,orange,Mike,15534,11.65,466.02,155,3.1,4.5,happy
+97,Male,20-08-1983,41,Standard,1,Sun,TRUE,Yoga,13:41:00,16:17:00,156,passion_fruit,Mike,11182,8.39,335.46,112,9,4.2,happy
+98,Female,22-11-1978,45,Premium,3,"Fri, Mon, Wed",TRUE,"LesMiles, Kickboxen",15:39:00,17:34:00,115,"coconut_pineapple, orange",Mike,5966,4.47,178.98,60,6,0.28,tired
+99,Male,26-06-1988,36,Standard,3,"Fri, Sun, Wed",TRUE,Spinning,18:25:00,20:10:00,105,passion_fruit,Chantal,16126,12.09,483.78,161,6,4.19,happy
+100,Female,14-09-1987,37,Standard,1,Sat,TRUE,HIT,08:37:00,10:12:00,95,"orange, passion_fruit",Mike,7321,5.49,219.63,73,8.4,0.79,stressed
+101,Male,28-02-1978,46,Premium,4,"Mon, Sat, Thu, Wed",TRUE,"Pilates, LesMiles",16:32:00,18:14:00,102,"lemon, orange",Hanna,15413,11.56,462.39,154,6.5,2.49,energetic
+102,Female,06-10-1994,30,Standard,4,"Fri, Mon, Sat, Wed",TRUE,HIT,09:21:00,11:31:00,130,"berry_boost, black_currant",Jeffrey,19181,14.39,575.43,192,7,4.62,sad
+103,Male,21-01-1978,46,Standard,5,"Fri, Mon, Sat, Tue, Wed",TRUE,"Spinning, Yoga",09:41:00,12:38:00,177,orange,Chantal,1462,1.1,43.86,15,7,2.28,stressed
+104,Male,02-03-1988,36,Standard,1,Tue,TRUE,BodyBalance,20:44:00,22:22:00,98,black_currant,Chantal,8899,6.67,266.97,89,6,0.32,stressed
+105,Female,04-06-1976,48,Premium,2,"Mon, Thu",TRUE,"BodyPump, XCore, Zumba",08:15:00,10:01:00,106,lemon,Jeffrey,2576,1.93,77.28,26,9,3.42,sad
+106,Male,24-09-1994,30,Premium,2,"Sun, Wed",TRUE,"BodyBalance, Yoga, Running",14:19:00,16:18:00,119,"orange, berry_boost",Chantal,5636,4.23,169.08,56,7,4.08,stressed
+107,Female,13-12-1996,27,Standard,1,Sun,TRUE,Spinning,15:34:00,17:58:00,144,berry_boost,Chantal,12806,9.6,384.18,128,7.3,3.37,tired
+108,Male,30-03-1982,42,Premium,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"LesMiles, XCore, BodyPump",12:05:00,14:14:00,129,"berry_boost, passion_fruit",Mike,4016,3.01,120.48,40,9,3.21,happy
+109,Female,20-09-1983,41,Standard,1,Fri,TRUE,"HIT, LesMiles",09:46:00,11:10:00,84,black_currant,Chantal,3969,2.98,119.07,40,7,0.83,energetic
+110,Female,12-03-1995,29,Premium,1,Wed,TRUE,BodyBalance,19:10:00,21:32:00,142,"black_currant, coconut_pineapple",Mike,524,0.39,15.72,5,6,1.86,sad
+111,Male,11-10-1981,43,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, LesMiles, BodyPump",13:40:00,16:26:00,166,"passion_fruit, orange",Mike,2119,1.59,63.57,21,11.6,2.54,energetic
+112,Male,21-03-1991,33,Standard,2,"Sat, Thu",TRUE,LesMiles,14:56:00,15:57:00,61,black_currant,Mike,10678,8.01,320.34,107,6.5,3.11,tired
+113,Male,02-01-1993,31,Standard,4,"Fri, Mon, Sat, Sun",TRUE,"LesMiles, Kickboxen",17:19:00,19:40:00,141,"passion_fruit, coconut_pineapple",Mike,4053,3.04,121.59,41,3.6,0.09,tired
+114,Female,03-02-1979,45,Standard,2,"Fri, Wed",TRUE,"BodyBalance, Zumba",18:26:00,21:21:00,175,"orange, passion_fruit",Mike,3187,2.39,95.61,32,10.4,1.52,tired
+115,Female,29-04-2007,17,Standard,2,"Tue, Wed",TRUE,LesMiles,12:09:00,14:55:00,166,"orange, berry_boost",Mike,19309,14.48,579.27,193,6.3,2.44,tired
+116,Female,21-08-2001,23,Premium,2,"Thu, Tue",TRUE,"BodyBalance, Spinning",14:42:00,16:56:00,134,"passion_fruit, orange",Jeffrey,10368,7.78,311.04,104,6.5,0.53,energetic
+117,Male,13-09-1984,40,Premium,2,"Sat, Tue",TRUE,"Pilates, HIT, Running",20:33:00,21:52:00,79,"berry_boost, orange",Jeffrey,8613,6.46,258.39,86,6,0.16,happy
+118,Male,23-01-1985,39,Premium,4,"Sun, Thu, Tue, Wed",TRUE,"BodyBalance, LesMiles",13:35:00,14:37:00,62,"lemon, coconut_pineapple",Chantal,10193,7.64,305.79,102,8,3.25,energetic
+119,Female,29-11-1989,34,Standard,1,Wed,TRUE,BodyBalance,10:28:00,12:20:00,112,"berry_boost, orange",Chantal,5357,4.02,160.71,54,8,0.72,sad
+120,Male,13-03-2001,23,Standard,3,"Mon, Sun, Thu",TRUE,"Spinning, Pilates, Zumba",10:03:00,12:22:00,139,"berry_boost, coconut_pineapple",Hanna,2382,1.79,71.46,24,6,5,tired
+121,Female,08-07-2009,15,Premium,1,Fri,TRUE,BodyPump,19:06:00,21:17:00,131,"black_currant, coconut_pineapple",Mike,6208,4.66,186.24,62,6.5,2.48,sad
+122,Male,11-10-1992,32,Standard,3,"Mon, Sun, Thu",TRUE,"Yoga, HIT, LesMiles",09:57:00,12:09:00,132,black_currant,Mike,10549,7.91,316.47,105,10.9,1.75,sad
+123,Male,23-01-1986,38,Standard,3,"Fri, Tue, Wed",TRUE,"BodyBalance, HIT",12:46:00,13:49:00,63,lemon,Mike,816,0.61,24.48,8,9.6,1.09,energetic
+124,Male,21-11-1993,30,Premium,3,"Fri, Sat, Thu",TRUE,"Yoga, BodyPump, Kickboxen",14:44:00,16:00:00,76,coconut_pineapple,Hanna,18194,13.65,545.82,182,9,0.61,stressed
+125,Male,28-11-1988,35,Standard,3,"Mon, Sat, Thu",TRUE,BodyPump,10:36:00,11:46:00,70,"orange, berry_boost",Mike,8905,6.68,267.15,89,8,3.09,stressed
+126,Male,02-03-1988,36,Premium,4,"Fri, Mon, Tue, Wed",TRUE,Pilates,19:22:00,22:13:00,171,berry_boost,Mike,18329,13.75,549.87,183,6.5,1.33,energetic
+127,Male,03-10-1987,37,Standard,1,Fri,TRUE,"LesMiles, Zumba",16:04:00,18:16:00,132,black_currant,Mike,7115,5.34,213.45,71,7,4.16,happy
+128,Male,16-12-1981,42,Standard,1,Mon,TRUE,HIT,14:05:00,15:38:00,93,"lemon, black_currant",Hanna,4029,3.02,120.87,40,5.3,3.63,happy
+129,Female,02-10-1985,39,Standard,5,"Mon, Sat, Sun, Tue, Wed",TRUE,"Running, BodyBalance",09:42:00,12:23:00,161,lemon,Chantal,16227,12.17,486.81,162,10.4,4.29,stressed
+130,Male,29-01-2007,17,Standard,4,"Mon, Sun, Thu, Tue",TRUE,"LesMiles, BodyPump",19:50:00,22:43:00,173,"coconut_pineapple, passion_fruit",Hanna,7714,5.79,231.42,77,5.9,3.24,sad
+131,Male,22-02-2001,23,Standard,4,"Mon, Sun, Thu, Tue",TRUE,"HIT, XCore",10:23:00,12:29:00,126,berry_boost,Jeffrey,2080,1.56,62.4,21,8.9,4.43,sad
