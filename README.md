@@ -221,13 +221,3 @@ Through this project, I gained hands-on experience in:
 ---
 
 
-# ⭐ Future Enhancements
-
-- Drill-through Reports
-- Forecasting Analysis
-- Row-Level Security (RLS)
-- Power BI Service Deployment
-- Mobile Dashboard Optimization
-
----
-
